@@ -1,0 +1,6 @@
+import seaborn as sns
+import matplotlib.pyplot as plt 
+import confusion matrix,accuary
+import pandas as pd
+import numpy as np
+from sklearn.preprocessing import linear regression,logistic regression,Support vector machine,Gradient Descent,Navie bayes classification
